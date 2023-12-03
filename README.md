@@ -1,16 +1,12 @@
 # Hi there! 👋
 
 # About me
-I'm Peter Schrøder, I'm new to coding and with a love for Python, Ml, LLM, Gen AI and AI in general. I am currently looking to become good enough for a change in career, maybe as junior.
+I'm Peter Schrøder, new to coding but passionate about Python, ML, LLM, Gen AI, and AI in general. I'm currently on a journey to become proficient enough to make a career change, possibly as a junior developer.
 
 # Technologies & Skills
 - 💻 Proficient in Python
-
-
-
-
-
-## Get in Touch
+- 
+# Get in Touch
 
 - 📧 Email: flunksch@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/peter-schrøder
