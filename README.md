@@ -5,7 +5,7 @@ I'm Peter Schrøder, new to coding but passionate about Python, ML, LLM, Gen AI,
 
 # Technologies & Skills
 - 💻 Proficient in Python
-- 
+  
 # Get in Touch
 
 - 📧 Email: flunksch@gmail.com
