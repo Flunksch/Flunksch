@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 # About me
-I'm Peter Schrøder, new to coding but passionate about Python, ML, LLM, Gen AI, ai in general and coding!
+I'm Peter Schrøder, new to coding but passionate about Python, ML, LLM, Gen AI, ai in general and coding! Started education as IT-supporter.
 
 # Technologies & Skills
 - 💻 Proficient in Python
